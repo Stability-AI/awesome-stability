@@ -1,7 +1,24 @@
 # Awesome Stability [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A collection of awesome things from StabilityAI and the wider community.
+
 
 ## Official Projects
-- _TODO_
+
+- Products
+  - [DreamStudio](https://beta.dreamstudio.ai/)
+  
+- Repositories
+  - [stability-sdk](https://github.com/Stability-AI/stability-sdk)
+  - [diffusers](https://github.com/Stability-AI/diffusers)
+  - [api-interfaces](https://github.com/Stability-AI/api-interfaces)
+  - [stability-hpc](https://github.com/Stability-AI/stability-hpc)
+  - [k-diffusion](https://github.com/Stability-AI/k-diffusion)
+  
+- Miscellaneous 
+  - [DigThatData's Star List](https://github.com/stars/dmarx/lists/sd-public-projects)
+ 
 
 ## Community Links
-- _TODO_
+
+- Clients
+  - [stability-ts](https://github.com/jakiestfu/stability-ts)
