@@ -9,7 +9,6 @@ A collection of awesome things from StabilityAI and the wider community.
 - **Repositories**
   - [stability-sdk](https://github.com/Stability-AI/stability-sdk)
   - [api-interfaces](https://github.com/Stability-AI/api-interfaces)
-  - [stability-hpc](https://github.com/Stability-AI/stability-hpc)
   
 - **Miscellaneous**
   - [@dmarx's Star List](https://github.com/stars/dmarx/lists/sd-public-projects)
