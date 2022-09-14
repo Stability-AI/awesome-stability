@@ -21,4 +21,6 @@ A collection of awesome things from StabilityAI and the wider community.
 ## Community Links
 
 - **Clients**
+  - [stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
+  - [stable-diffusion-krita-plugin](https://github.com/sddebz/stable-diffusion-krita-plugin)
   - [stability-ts](https://github.com/jakiestfu/stability-ts)
