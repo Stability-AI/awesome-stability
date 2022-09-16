@@ -28,5 +28,5 @@ A collection of awesome things from StabilityAI and the wider community.
 - **Servers**
   - [stable-diffusion-grpcserver](https://github.com/hafriedlander/stable-diffusion-grpcserver) - A local GPU implementation of the stability-ai backend
 
-- **Related utilities**
+- **Utilities**
   - [SmallDogBig](https://github.com/hafriedlander/SmallDogBig) - A command line upscaler combining Codeformer, SwinIR and HAT
