@@ -25,3 +25,8 @@ A collection of awesome things from StabilityAI and the wider community.
 
 - **Utilities**
   - [SmallDogBig](https://github.com/hafriedlander/SmallDogBig) - A command line upscaler combining Codeformer, SwinIR and HAT
+
+### Tutorials and guides
+
+- **finetuning**
+  - [Justin Pinkney (Lambda Labs) pokemon diffusion](https://github.com/LambdaLabsML/examples/tree/main/stable-diffusion-finetuning) - 6 hours on 2xA6000 (15K steps), + BLIP for auto-captioning the image dataset.
