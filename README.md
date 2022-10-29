@@ -19,6 +19,7 @@ A collection of awesome things from StabilityAI and the wider community.
   - [stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
   - [stable-diffusion-krita-plugin](https://github.com/sddebz/stable-diffusion-krita-plugin)
   - [stability-ts](https://github.com/jakiestfu/stability-ts)
+  - [Dream Textures](https://github.com/carson-katri/dream-textures/) - Blender add-on for Stable Diffusion with local and DreamStudio backends
 
 - **Servers**
   - [stable-diffusion-grpcserver](https://github.com/hafriedlander/stable-diffusion-grpcserver) - A local GPU implementation of the stability-ai backend
