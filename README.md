@@ -26,6 +26,9 @@ A collection of awesome things from StabilityAI and the wider community.
 - **Utilities**
   - [SmallDogBig](https://github.com/hafriedlander/SmallDogBig) - A command line upscaler combining Codeformer, SwinIR and HAT
 
+- **Online services**
+  - [Artistic.wtf](https://www.artistic.wtf/) - A free website to generate art online
+
 ### Tutorials and guides
 
 - **finetuning**
