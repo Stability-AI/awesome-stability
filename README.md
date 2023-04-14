@@ -6,11 +6,14 @@ A collection of awesome things from StabilityAI and the wider community.
 - **Products**
   - [DreamStudio](https://dreamstudio.ai/)
   - [Stability Developer Platform](https://platform.stability.ai/)
+  - [Stability for Photoshop](https://platform.stability.ai/docs/integrations/photoshop)
+  - [Stability for Blender](https://platform.stability.ai/docs/integrations/blender)
 
 - **Repositories**
   - [Python SDK](https://github.com/Stability-AI/stability-sdk)
   - [REST API spec, documentation, and examples](https://github.com/Stability-AI/REST-API)
   - [gRPC API interfaces](https://github.com/Stability-AI/api-interfaces)
+  - [Stability API Extension for Automatic1111 WebUI](https://github.com/Stability-AI/webui-stability-api)
   
 - **Miscellaneous**
   - [@dmarx's Star List](https://github.com/stars/dmarx/lists/sd-public-projects)
@@ -21,9 +24,6 @@ A collection of awesome things from StabilityAI and the wider community.
   - [stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui)
   - [stable-diffusion-krita-plugin](https://github.com/sddebz/stable-diffusion-krita-plugin)
   - [stability-ts](https://github.com/jakiestfu/stability-ts)
-  - [Stability API Extension for Automatic1111 WebUI](https://github.com/Stability-AI/webui-stability-api)
-  - [Stability for Photoshop](https://platform.stability.ai/docs/integrations/photoshop)
-  - [Stability for Blender](https://platform.stability.ai/docs/integrations/blender)
 
 - **Servers**
   - [stable-diffusion-grpcserver](https://github.com/hafriedlander/stable-diffusion-grpcserver) - A local GPU implementation of the stability-ai backend
