@@ -10,7 +10,7 @@ A collection of awesome things from StabilityAI and the wider community.
 - **Clients**
   - [Stability for Photoshop](https://platform.stability.ai/docs/integrations/photoshop)
   - [Stability for Blender](https://platform.stability.ai/docs/integrations/blender)
-  - [Stability API Extension for Automatic1111 WebUI](https://github.com/Stability-AI/webui-stability-api)
+  - [Stability for Automatic1111 WebUI](https://github.com/Stability-AI/webui-stability-api)
 
 - **Repositories**
   - [Python SDK](https://github.com/Stability-AI/stability-sdk)
