@@ -6,14 +6,16 @@ A collection of awesome things from StabilityAI and the wider community.
 - **Products**
   - [DreamStudio](https://dreamstudio.ai/)
   - [Stability Developer Platform](https://platform.stability.ai/)
+  
+- **Clients**
   - [Stability for Photoshop](https://platform.stability.ai/docs/integrations/photoshop)
   - [Stability for Blender](https://platform.stability.ai/docs/integrations/blender)
+  - [Stability API Extension for Automatic1111 WebUI](https://github.com/Stability-AI/webui-stability-api)
 
 - **Repositories**
   - [Python SDK](https://github.com/Stability-AI/stability-sdk)
   - [REST API spec, documentation, and examples](https://github.com/Stability-AI/REST-API)
   - [gRPC API interfaces](https://github.com/Stability-AI/api-interfaces)
-  - [Stability API Extension for Automatic1111 WebUI](https://github.com/Stability-AI/webui-stability-api)
   
 - **Miscellaneous**
   - [@dmarx's Star List](https://github.com/stars/dmarx/lists/sd-public-projects)
