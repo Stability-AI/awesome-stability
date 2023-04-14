@@ -22,6 +22,8 @@ A collection of awesome things from StabilityAI and the wider community.
   - [stable-diffusion-krita-plugin](https://github.com/sddebz/stable-diffusion-krita-plugin)
   - [stability-ts](https://github.com/jakiestfu/stability-ts)
   - [Stability API Extension for Automatic1111 WebUI](https://github.com/Stability-AI/webui-stability-api)
+  - [Stability for Photoshop](https://platform.stability.ai/docs/integrations/photoshop)
+  - [Stability for Blender](https://platform.stability.ai/docs/integrations/blender)
 
 - **Servers**
   - [stable-diffusion-grpcserver](https://github.com/hafriedlander/stable-diffusion-grpcserver) - A local GPU implementation of the stability-ai backend
